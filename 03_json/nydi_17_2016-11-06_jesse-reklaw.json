@@ -1,0 +1,44 @@
+{
+  "author": {
+    "firstname": "Jesse",
+    "lastname": "Reklaw"
+  },
+  "filename": "nydi_17_2016-11-06_jesse-reklaw.json",
+  "collection": "N.Y.D.I. #2",
+  "title": "Sunday Nov 6, 2016",
+  "publishedOn": "2022",
+  "happenedOn": "2016-11-06",
+  "characters": [
+    "Jesse Reklaw",
+    "Obey Scooplaw",
+    "Brandon",
+    "Ping",
+    "Cheryl"
+  ],
+  "metrics": [
+  	{
+      "type": "alcohol-drink",
+      "value": 2
+    },
+    {
+      "type": "cannabis-high",
+      "value": 5
+    },
+    {
+      "type": "coffee",
+      "value": 1
+    },
+    {
+      "type": "mood",
+      "value": 4
+    },
+    {
+      "type": "pain",
+      "value": 6
+    },
+    {
+      "type": "tai-chi",
+      "value": 2
+    }
+  ]
+}

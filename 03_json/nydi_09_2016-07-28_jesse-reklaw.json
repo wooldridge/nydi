@@ -1,0 +1,46 @@
+{
+  "author": {
+    "firstname": "Jesse",
+    "lastname": "Reklaw"
+  },
+  "filename": "nydi_09_2016-07-28_jesse-reklaw.json",
+  "collection": "N.Y.D.I. #2",
+  "title": "Thursday July 28, 2016",
+  "publishedOn": "2022",
+  "happenedOn": "2016-07-28",
+  "characters": [
+    "Jesse Reklaw",
+    "Damien",
+    "Levon",
+    "Trevor",
+    "Vanessa",
+    "Tom",
+    "Shawn"
+  ],
+  "metrics": [
+  	{
+      "type": "alcohol-drink",
+      "value": 8
+    },
+    {
+      "type": "cannabis-high",
+      "value": 3
+    },
+    {
+      "type": "coffee",
+      "value": 1
+    },
+    {
+      "type": "mood",
+      "value": 7
+    },
+    {
+      "type": "pain",
+      "value": 6
+    },
+    {
+      "type": "tai-chi",
+      "value": 0
+    }
+  ]
+}

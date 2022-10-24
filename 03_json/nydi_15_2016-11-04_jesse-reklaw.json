@@ -1,0 +1,43 @@
+{
+  "author": {
+    "firstname": "Jesse",
+    "lastname": "Reklaw"
+  },
+  "filename": "nydi_15_2016-11-04_jesse-reklaw.json",
+  "collection": "N.Y.D.I. #2",
+  "title": "Friday Nov 4, 2016",
+  "publishedOn": "2022",
+  "happenedOn": "2016-11-04",
+  "characters": [
+    "Jesse Reklaw",
+    "Brandon",
+    "Tom Van Deusen",
+    "Dash Shaw"
+  ],
+  "metrics": [
+  	{
+      "type": "alcohol-drink",
+      "value": 2
+    },
+    {
+      "type": "cannabis-high",
+      "value": 4
+    },
+    {
+      "type": "coffee",
+      "value": 1
+    },
+    {
+      "type": "mood",
+      "value": 4
+    },
+    {
+      "type": "pain",
+      "value": 7
+    },
+    {
+      "type": "tai-chi",
+      "value": 0
+    }
+  ]
+}

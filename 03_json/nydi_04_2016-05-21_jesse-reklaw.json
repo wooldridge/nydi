@@ -1,0 +1,42 @@
+{
+  "author": {
+    "firstname": "Jesse",
+    "lastname": "Reklaw"
+  },
+  "filename": "nydi_04_2016-05-21_jesse-reklaw.png",
+  "collection": "N.Y.D.I. #2",
+  "title": "Saturday May 21, 2016",
+  "publishedOn": "2022",
+  "happenedOn": "2016-05-21",
+  "characters": [
+    "Jesse Reklaw",
+    "Simon Hanselmann",
+    "Charles"
+  ],
+  "metrics": [
+  	{
+      "type": "alcohol-drink",
+      "value": 5
+    },
+    {
+      "type": "cannabis-high",
+      "value": 6
+    },
+    {
+      "type": "coffee",
+      "value": 0
+    },
+    {
+      "type": "mood",
+      "value": 6
+    },
+    {
+      "type": "pain",
+      "value": 6
+    },
+    {
+      "type": "tai-chi",
+      "value": 0
+    }
+  ]
+}
